@@ -8,3 +8,4 @@ CACHE_ENABLED=true
 TEAM=platform
 REGION=ap-south-1
 OWNER=devops
+DEPLOYMENT=staging 
