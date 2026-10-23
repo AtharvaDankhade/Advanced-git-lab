@@ -2,3 +2,5 @@ APP_NAME=devops-demo
 APP_ENV=development
 APP_PORT=5000
 LOG_LEVEL=info
+HEALTH_CHECK_PATH=/health
+HEALTH_CHECK_ENABLED=true
