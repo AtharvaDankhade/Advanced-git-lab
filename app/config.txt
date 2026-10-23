@@ -5,3 +5,5 @@ HEALTH_CHECK_PATH=/health
 HEALTH_CHECK_ENABLED=true
 LOG_LEVEL=info
 CACHE_ENABLED=true
+TEAM=platform
+OWNER=devops
