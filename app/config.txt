@@ -6,4 +6,5 @@ HEALTH_CHECK_ENABLED=true
 LOG_LEVEL=info
 CACHE_ENABLED=true
 TEAM=platform
+REGION=ap-south-1
 OWNER=devops
